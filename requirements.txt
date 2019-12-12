@@ -115,7 +115,7 @@ parso==0.4.0
 passlib==1.6.2
 pbr==5.1.3
 pickleshare==0.7.5
-Pillow==6.0.0
+Pillow==6.2.0
 plac==0.9.6
 preshed==3.0.2
 prometheus-client==0.6.0
